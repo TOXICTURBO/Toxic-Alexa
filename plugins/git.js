@@ -15,35 +15,35 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.ibb.co/6tbmPj1/maaluttty.jpg";
+    r_text[0] = "https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `◄━⦁💝 MAALUTTY_V3💝⦁━►
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `◄━⦁💝 Toxic Alexa 💝⦁━►
 
 
-*owner number husni* :https://wa.me/917025868709.
+*owner number husni* :https://wa.me/916380260672.
             
 
-*owner number Nijin* :https://wa.me/919605385305.
+*owner number Nijin* :https://wa.me/919995801023.
 
 
-*owner id instagram* :https://instagram.com/_husni_ser_.
+*owner id instagram* :https://instagram.com/toxic_turbo777.
 
 
-*github* : https://github.com/nijin-husni/MAALUTTY_V3.
+*github* : coming soon.
 
 
-*audio commands* :https://github.com/nijin-husni/media/tree/main/bgm.
+*audio commands* :coming soon.
 
 
-*sticker commands* :https://github.com/nijin-husni/media/tree/main/stickers.
+*sticker commands* :coming soon.
 
-◄━⦁💝 MAALUTTY_V3💝⦁━►
-■□ ~NIJIN~ AND ~HUSNI~■□ 
+◄━⦁💝 Toxic Alexa 💝⦁━►
+■□ ~Turbo~ And ~Turbo~■□ 
 
 `}) 
 
