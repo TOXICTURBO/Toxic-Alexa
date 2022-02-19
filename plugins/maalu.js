@@ -21,13 +21,13 @@ var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '
 
         {buttonId: 'id1', buttonText: {displayText: 'PODA😏'}, type: 1},
         {buttonId: 'id2', buttonText: {displayText: 'NJAN MANDAN ONNUMALLA😝'}, type: 1},
-        {buttonId: 'id3', buttonText: {displayText: '💝OWNER💝 \n\n```creater Husni and nijin```\n\n```owner number wa.me/917025868709```\n\n```owner number wa.me/919446672120```\n\n```whatsapp group : https://chat.whatsapp.com/KJWUNpT7lBzDuPGnlV69Vp```\n\n\n'  }, type: 1},
+        {buttonId: 'id3', buttonText: {displayText: '💝OWNER💝 \n\n```creater Turbo and Jifi```\n\n```owner number wa.me/916380260672```\n\n```owner number wa.me/919995801023```\n\n```whatsapp group : https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp```\n\n\n'  }, type: 1},
 
       ]
       
       const buttonMessage = {
           contentText: 'Eda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda😂 ',
-          footerText: '©ꪶ͢ʜᴜsɴɪ ÂÑD ɴɪᴊɪɴꫂ™',
+          footerText: '©ꪶ͢Turbo ÂÑD Jifiꫂ™',
           buttons: buttons,
           headerType: 1
       }
