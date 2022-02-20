@@ -242,6 +242,10 @@
             "required": false,
             "value": "default"
         },
+         "YT_PASSWORD": {
+            "description": "enter the password, to get password watch https://youtu.be/fd0KPblop-k .",
+            "required": true  
+        },
         "KICKME_MESSAGE": {
             "description": "Customizable Kickme Message! Use => default, to change back.",
             "required": false,
