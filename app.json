@@ -8,7 +8,7 @@
     "success_url": "https://github.com/TOXICTURBO/Toxic-Alexa",
     "stack": "container",
     "env": {
-        "MAALUTTY_CODE": {
+        "ALEXA_CODE": {
             "description": "Type the code when you got by scanning QR through WhatsApp.",
             "required": true
         },
@@ -74,7 +74,7 @@
         "LG_LOGO": {
             "description": "LOGO list message image link(https://telegra.ph/)link.",
             "required": true,
-            "value": "https://i.ibb.co/3ypJ8QW/20211209-194953.jpg"
+            "value": "https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg"
         },
         "LOGO_NAME": {
             "description": "Set the logo list name",
