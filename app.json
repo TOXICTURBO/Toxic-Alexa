@@ -242,8 +242,8 @@
             "required": false,
             "value": "default"
         },
-         "YT_PASSWORD": {
-            "description": "enter the password, to get password watch https://youtu.be/fd0KPblop-k .",
+         "ALEXA_PASSWORD": {
+            "description": "enter the password, to get password join https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp .",
             "required": true  
         },
         "KICKME_MESSAGE": {
