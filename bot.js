@@ -116,7 +116,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         if (config.AFPLK == 'ALEXA777' || config.AFPLK == 'alexa777' || config.AFPLK == 'Alexa777' || config.AFPLK == 'pinky') {
         //thanks to afnanplk
         console.log(
-            chalk.green.bold('thanks for watching -key cofirmed-')
+            chalk.green.bold('Key Confirmed Thanks For Using Toxic Alexa✅')
         );
          }
          else if (config.AFPLK !== 'ALEXA777' || config.AFPLK !== 'alexa777' || config.AFPLK !== 'Alexa777' || config.AFPLK !== 'pinky') {
