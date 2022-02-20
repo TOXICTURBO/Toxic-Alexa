@@ -124,7 +124,7 @@
         "TALKING_ALEXA": {
             "description": "Turn your account into a talking Alexa!",
             "required": true,
-            "value": "true"
+            "value": "false"
         },
         "NO_LOG": {
             "description": " Set true if you don't want to see error log.",
